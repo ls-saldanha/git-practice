@@ -1,0 +1,3 @@
+System Status: OK
+CPU Load: 45%
+Memory: 20GB

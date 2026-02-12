@@ -1,0 +1,3 @@
+--- LOG START ---
+User Admin logged in.
+User Guest logged in.

@@ -6,3 +6,4 @@ with open("daily_log.txt", "a") as dl:
 #hello this has been modified
 #"modified again"
 #modified again
+#modified again
